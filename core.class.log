@@ -1,0 +1,918 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361023250@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C6800B30F044693921',
+    participant: undefined
+  },
+  messageTimestamp: 1694970796,
+  pushName: 'A.N.d',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5219361023250'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_822f97b7-d9b7-4689-9e53-264027b0d452',
+  keyword: 'key_9fb93b7f-d192-40bf-bbd0-4d092ae0c7d1',
+  answer: '🙌 Hola bienvenido a este *Chatbot* Dr.Ezpino! de su consultorio dental 🪥 🦷',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8c53d35dd0857ba209ec0eea9466e3c3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c23f623b-a0a3-4743-b5ea-d09fe11d4bae',
+  keyword: 'ans_822f97b7-d9b7-4689-9e53-264027b0d452',
+  answer: 'Ofrecemos tratamientos de ortodoncia,\n' +
+    'extracciones y limpiezas dentales en dos ubicaciones\n' +
+    '*Macuspana* (viernes y sábado) y *Villahermosa* (resto de la semana).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a3b58c790a5ae2f0febfdcb1721a4751'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d916d232-9a95-4596-8510-327aecd59311',
+  keyword: 'ans_c23f623b-a0a3-4743-b5ea-d09fe11d4bae',
+  answer: 'te comparto las siguientes opciones 🤗\n' +
+    '👉 *nota* para dejar alguna nota a nuestro amigo Ezpino\n' +
+    '👉 *Agendar*  para solicitar una cita\n' +
+    '✍️ Por favor escribe alguna  de ellas ✍️',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '910904ff62317b1e2c4e72ea909cfbf7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361023250@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F12D6D55DC01187FB6',
+    participant: undefined
+  },
+  messageTimestamp: 1694970803,
+  pushName: 'A.N.d',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'nota',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'nota',
+  from: '5219361023250'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6874eb7c-f565-4a82-82fa-b8adc406870f',
+  keyword: 'key_936c2270-4e66-48b3-8f8f-4015312381c0',
+  answer: 'A continuación escriba por favor la nota que desea dejar..',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ee39aca18fdc887c543e2adf25bb4a33'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361023250@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06AE1DFC59F47834959',
+    participant: undefined
+  },
+  messageTimestamp: 1694970809,
+  pushName: 'A.N.d',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ayudame con algo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ayudame con algo',
+  from: '5219361023250'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_99c95d49-4841-4831-a491-d4464f18e849',
+  keyword: 'ans_6874eb7c-f565-4a82-82fa-b8adc406870f',
+  answer: 'Muchas gracias, Devolveremos el mensaje tan pronto sea posible...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1792604205d7d6eb5d060bfa85406fbb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361023250@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB048F3B7F2AD4B7DBE41',
+    participant: undefined
+  },
+  messageTimestamp: 1694970813,
+  pushName: 'A.N.d',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5219361023250'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_822f97b7-d9b7-4689-9e53-264027b0d452',
+  keyword: 'key_9fb93b7f-d192-40bf-bbd0-4d092ae0c7d1',
+  answer: '🙌 Hola bienvenido a este *Chatbot* Dr.Ezpino! de su consultorio dental 🪥 🦷',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8c53d35dd0857ba209ec0eea9466e3c3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c23f623b-a0a3-4743-b5ea-d09fe11d4bae',
+  keyword: 'ans_822f97b7-d9b7-4689-9e53-264027b0d452',
+  answer: 'Ofrecemos tratamientos de ortodoncia,\n' +
+    'extracciones y limpiezas dentales en dos ubicaciones\n' +
+    '*Macuspana* (viernes y sábado) y *Villahermosa* (resto de la semana).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a3b58c790a5ae2f0febfdcb1721a4751'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d916d232-9a95-4596-8510-327aecd59311',
+  keyword: 'ans_c23f623b-a0a3-4743-b5ea-d09fe11d4bae',
+  answer: 'te comparto las siguientes opciones 🤗\n' +
+    '👉 *nota* para dejar alguna nota a nuestro amigo Ezpino\n' +
+    '👉 *Agendar*  para solicitar una cita\n' +
+    '✍️ Por favor escribe alguna  de ellas ✍️',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '910904ff62317b1e2c4e72ea909cfbf7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361023250@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01F2CA1AA04636A9E75',
+    participant: undefined
+  },
+  messageTimestamp: 1694970817,
+  pushName: 'A.N.d',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'agendar',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'agendar',
+  from: '5219361023250'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e7a78873-8732-4579-934f-bedf64791119',
+  keyword: 'key_b17a458b-1735-4934-8411-3ec3185bb6d6',
+  answer: 'A continuación comenzamos con la agenda de su cita',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd846228bfbd318e1d546ebc0b954cf4b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_004de439-4dce-47ff-841e-1f7883283da3',
+  keyword: 'ans_e7a78873-8732-4579-934f-bedf64791119',
+  answer: '¿Cual es el nombre del paciente?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '51040c2b20d0f153e0925046e8f2f9aa'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361023250@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB004FD786B405B2282D2',
+    participant: undefined
+  },
+  messageTimestamp: 1694970824,
+  pushName: 'A.N.d',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'El thortillero',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'El thortillero',
+  from: '5219361023250'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_960bf66a-ab8a-4e6f-baca-e8c7feeb91ad',
+  keyword: 'ans_004de439-4dce-47ff-841e-1f7883283da3',
+  answer: '¿En donde se encuentra? \n Villahermosa o Macuspna',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd39af4ecbb3f60ce08b3ec6e359c64d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361023250@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A10838C8A1812B3B3B',
+    participant: undefined
+  },
+  messageTimestamp: 1694970831,
+  pushName: 'A.N.d',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Villahermosa',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Villahermosa',
+  from: '5219361023250'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63781bd9-f5e3-4405-b409-e10ba3165347',
+  keyword: 'ans_960bf66a-ab8a-4e6f-baca-e8c7feeb91ad',
+  answer: '¿Cual es el motivo de su cita? \n' +
+    ' Dolor de muela, Extracción , Tratamiento de Brackets etc..',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b0f2ad4377b2784a0b0a80c77a9074c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361023250@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB056DA609A78DE05444A',
+    participant: undefined
+  },
+  messageTimestamp: 1694970835,
+  pushName: 'A.N.d',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'me duele la muela',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'me duele la muela',
+  from: '5219361023250'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_964ed528-9cf7-4f1e-9ede-026dabf49efc',
+  keyword: 'ans_63781bd9-f5e3-4405-b409-e10ba3165347',
+  answer: '🖇️ Perfecto muchas gracias por su confianza, nos comunicaremos con usted lo antes posible para confirmar su cita... 📅',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9ccaa437c40cdd61cb4635164b389e2f'
+}
+[handleMsg]:  {
+  messageStubParameters: [],
+  labels: [],
+  userReceipt: [],
+  reactions: [],
+  pollUpdates: [],
+  key: MessageKey {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: '6229BE4BA33874763150AFB1867CCB8B'
+  },
+  messageTimestamp: Long { low: 1694971751, high: 0, unsigned: true },
+  messageStubType: 40,
+  body: undefined,
+  from: '5219361066830'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: '116AC56373375603ADFD194C97F54F2B',
+    participant: undefined
+  },
+  messageTimestamp: 1694972436,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5219361066830'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_822f97b7-d9b7-4689-9e53-264027b0d452',
+  keyword: 'key_9fb93b7f-d192-40bf-bbd0-4d092ae0c7d1',
+  answer: '🙌 Hola bienvenido a este *Chatbot* Dr.Ezpino! de su consultorio dental 🪥 🦷',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8c53d35dd0857ba209ec0eea9466e3c3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c23f623b-a0a3-4743-b5ea-d09fe11d4bae',
+  keyword: 'ans_822f97b7-d9b7-4689-9e53-264027b0d452',
+  answer: 'Ofrecemos tratamientos de ortodoncia,\n' +
+    'extracciones y limpiezas dentales en dos ubicaciones\n' +
+    '*Macuspana* (viernes y sábado) y *Villahermosa* (resto de la semana).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a3b58c790a5ae2f0febfdcb1721a4751'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d916d232-9a95-4596-8510-327aecd59311',
+  keyword: 'ans_c23f623b-a0a3-4743-b5ea-d09fe11d4bae',
+  answer: 'te comparto las siguientes opciones 🤗\n' +
+    '👉 *nota* para dejar alguna nota a nuestro amigo Ezpino\n' +
+    '👉 *Agendar*  para solicitar una cita\n' +
+    '✍️ Por favor escribe alguna  de ellas ✍️',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '910904ff62317b1e2c4e72ea909cfbf7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: '47AF0D0E62964A60FCD806F3BBB10C55',
+    participant: undefined
+  },
+  messageTimestamp: 1694972522,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agenndar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Agenndar',
+  from: '5219361066830'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: '03352BD4E933ED4A3FC4C024F962E8E8',
+    participant: undefined
+  },
+  messageTimestamp: 1694972532,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agendar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Agendar',
+  from: '5219361066830'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: 'B350F1D88C43166277B7D3F77C7951E9',
+    participant: undefined
+  },
+  messageTimestamp: 1694972591,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agenda',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Agenda',
+  from: '5219361066830'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: 'DC986D1D087DB3AC05124D8E5D062DB1',
+    participant: undefined
+  },
+  messageTimestamp: 1694972596,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5219361066830'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_822f97b7-d9b7-4689-9e53-264027b0d452',
+  keyword: 'key_9fb93b7f-d192-40bf-bbd0-4d092ae0c7d1',
+  answer: '🙌 Hola bienvenido a este *Chatbot* Dr.Ezpino! de su consultorio dental 🪥 🦷',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8c53d35dd0857ba209ec0eea9466e3c3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c23f623b-a0a3-4743-b5ea-d09fe11d4bae',
+  keyword: 'ans_822f97b7-d9b7-4689-9e53-264027b0d452',
+  answer: 'Ofrecemos tratamientos de ortodoncia,\n' +
+    'extracciones y limpiezas dentales en dos ubicaciones\n' +
+    '*Macuspana* (viernes y sábado) y *Villahermosa* (resto de la semana).',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a3b58c790a5ae2f0febfdcb1721a4751'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d916d232-9a95-4596-8510-327aecd59311',
+  keyword: 'ans_c23f623b-a0a3-4743-b5ea-d09fe11d4bae',
+  answer: 'te comparto las siguientes opciones 🤗\n' +
+    '👉 *nota* para dejar alguna nota a nuestro amigo Ezpino\n' +
+    '👉 *Agendar*  para solicitar una cita\n' +
+    '✍️ Por favor escribe alguna  de ellas ✍️',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '910904ff62317b1e2c4e72ea909cfbf7'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: 'D842018C2DF796C8EB08A3A273381E14',
+    participant: undefined
+  },
+  messageTimestamp: 1694972604,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agenda',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Agenda',
+  from: '5219361066830'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e7a78873-8732-4579-934f-bedf64791119',
+  keyword: 'key_b17a458b-1735-4934-8411-3ec3185bb6d6',
+  answer: 'A continuación comenzamos con la agenda de su cita',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd846228bfbd318e1d546ebc0b954cf4b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_004de439-4dce-47ff-841e-1f7883283da3',
+  keyword: 'ans_e7a78873-8732-4579-934f-bedf64791119',
+  answer: '¿Cual es el nombre del paciente?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '51040c2b20d0f153e0925046e8f2f9aa'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4063B59108FBACB3B0C1231C1A56AFF',
+    participant: undefined
+  },
+  messageTimestamp: 1694972652,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jorge eduardo Antonio lopez',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jorge eduardo Antonio lopez',
+  from: '5219361066830'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_960bf66a-ab8a-4e6f-baca-e8c7feeb91ad',
+  keyword: 'ans_004de439-4dce-47ff-841e-1f7883283da3',
+  answer: '¿En donde se encuentra? \n Villahermosa o Macuspna',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dd39af4ecbb3f60ce08b3ec6e359c64d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: '24193998C169909A8480F208A05419B2',
+    participant: undefined
+  },
+  messageTimestamp: 1694972672,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Macuspana',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Macuspana',
+  from: '5219361066830'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_63781bd9-f5e3-4405-b409-e10ba3165347',
+  keyword: 'ans_960bf66a-ab8a-4e6f-baca-e8c7feeb91ad',
+  answer: '¿Cual es el motivo de su cita? \n' +
+    ' Dolor de muela, Extracción , Tratamiento de Brackets etc..',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b0f2ad4377b2784a0b0a80c77a9074c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: '8047928831ABADC8B071E1F5A38F6091',
+    participant: undefined
+  },
+  messageTimestamp: 1694972684,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dolor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dolor',
+  from: '5219361066830'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_964ed528-9cf7-4f1e-9ede-026dabf49efc',
+  keyword: 'ans_63781bd9-f5e3-4405-b409-e10ba3165347',
+  answer: '🖇️ Perfecto muchas gracias por su confianza, nos comunicaremos con usted lo antes posible para confirmar su cita... 📅',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9ccaa437c40cdd61cb4635164b389e2f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361066830@s.whatsapp.net',
+    fromMe: false,
+    id: 'CAF2AAF4C55B4E44CA3D4A8C1CFAC462',
+    participant: undefined
+  },
+  messageTimestamp: 1694972723,
+  pushName: 'J. Eduardo 😒',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok',
+  from: '5219361066830'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361164093@s.whatsapp.net',
+    fromMe: false,
+    id: '2E7DEF683E31FC6093E85D56267CDA52',
+    participant: undefined
+  },
+  messageTimestamp: 1694974026,
+  pushName: 'Andrés Antonio Montero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bien hijo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bien hijo',
+  from: '5219361164093'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361164093@s.whatsapp.net',
+    fromMe: false,
+    id: '9F84AC7BD43DF91CA131C6D41BF13C54',
+    participant: undefined
+  },
+  messageTimestamp: 1694974210,
+  pushName: 'Andrés Antonio Montero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Voy a macu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Voy a macu',
+  from: '5219361164093'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361164093@s.whatsapp.net',
+    fromMe: false,
+    id: 'ABDC0DEEE4B907095CF2AED63B35C79A',
+    participant: undefined
+  },
+  messageTimestamp: 1694974236,
+  pushName: 'Andrés Antonio Montero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si me falto Algunas compras w hize en la mañana',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si me falto Algunas compras w hize en la mañana',
+  from: '5219361164093'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219361164093@s.whatsapp.net',
+    fromMe: false,
+    id: '47F3C80F251A49C8E225ADA14E2F2685',
+    participant: undefined
+  },
+  messageTimestamp: 1694974661,
+  pushName: 'Andrés Antonio Montero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5219361164093'
+}
